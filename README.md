@@ -24,7 +24,7 @@ $$N = (60 * P) / (2π * T)$$
 * 60 é o número de segundos em um minuto.
 * P é a potência em watts 
     
-    $$ V * I * cos(θ)$$
+    $$V * I * cos(θ)$$
 
     * V é a tensão elétrica em volts (V);
     * I é a corrente elétrica em amperes (A);
