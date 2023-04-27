@@ -8,7 +8,7 @@ O sistema principal ficará encarregado de ajustar conforme a necessidade
 do usuário a amperagem e a voltagem.
 
 Será aplicado os modelos matemáticos para calcular os resultados das alterações
-de amperagem e na voltagem, visto que ambas medidas estão intercaladas.
+de amperagem e na voltagem, para fazer um motor funcionar.
 
 
 [ x ] No final do sistema, haverá um motor que gira uma hélice, mostrando o RPM do motor no momento.
